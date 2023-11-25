@@ -34,3 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+IMAGENES DEL PROYECTO
+![13](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/d1402aa5-f479-48ee-818b-751b062406f7)
+
