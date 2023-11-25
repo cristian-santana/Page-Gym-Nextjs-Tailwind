@@ -36,7 +36,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 IMAGENES DEL PROYECTO
-![13](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/5f17acbf-d176-45b5-9e25-980db880b409)
 
 ![01](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/2f224af7-8a25-4bbf-b05f-38aa5d2636df)
 
@@ -47,6 +46,8 @@ IMAGENES DEL PROYECTO
 ![05](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/b70e34fc-11b9-45c9-b5dd-8c5b0b5b9b0b)
 
 ![12](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/8f89ed80-8172-40e9-a25b-209dc427a454)
+
+![13](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/5f17acbf-d176-45b5-9e25-980db880b409)
 
 
 
