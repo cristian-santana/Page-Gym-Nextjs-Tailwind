@@ -38,4 +38,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 IMAGENES DEL PROYECTO
 ![13](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/5f17acbf-d176-45b5-9e25-980db880b409)
 
+![01](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/2f224af7-8a25-4bbf-b05f-38aa5d2636df)
+
+![02](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/8a13764c-15dc-4d91-a1bd-081f452575a1)
+
+![04](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/3f270d5e-89f1-42fe-9429-a527d5a9234f)
+
+![05](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/b70e34fc-11b9-45c9-b5dd-8c5b0b5b9b0b)
+
+![12](https://github.com/cristian-santana/Page-Gym-Nextjs-Tailwind/assets/84883843/8f89ed80-8172-40e9-a25b-209dc427a454)
+
+
+
 
